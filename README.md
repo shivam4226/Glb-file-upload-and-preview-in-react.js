@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="899" alt="image" src="https://github.com/shivam4226/Glb-file-upload-and-preview-in-react.js/assets/91675351/10c744d0-382b-4420-befa-dcb48de18684">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
